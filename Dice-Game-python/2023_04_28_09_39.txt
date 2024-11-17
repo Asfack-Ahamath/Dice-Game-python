@@ -1,0 +1,16 @@
+						◈━◈━◈━◈━◈━◈━◈
+						    Dice Game
+						◈━◈━◈━◈━◈━◈━◈
+
+   Played on : 2023/04/28 09:39
+
+Game Results :
+		    Played By       : Ahamath
+		    Total Moves     : 21
+		    Black Hole Hits : 4
+		    Status          : Won the Game
+
+		    Played By       : Computer
+		    Total Moves     : 23
+		    Black Hole Hits : 4
+		    Status          : Lost the Game

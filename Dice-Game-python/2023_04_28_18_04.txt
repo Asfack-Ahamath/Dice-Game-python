@@ -1,0 +1,16 @@
+						◈━◈━◈━◈━◈━◈━◈
+						    Dice Game
+						◈━◈━◈━◈━◈━◈━◈
+
+   Played on : 2023/04/28 18:04
+
+Game Results :
+		    Played By       : Asfack
+		    Total Moves     : 15
+		    Black Hole Hits : 2
+		    Status          : Lost the Game
+
+		    Played By       : Computer
+		    Total Moves     : 19
+		    Black Hole Hits : 2
+		    Status          : Won the Game
